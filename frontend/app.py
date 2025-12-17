@@ -229,3 +229,4 @@ elif page == "Simulation":
     fig_sim.update_layout(height=350, margin=dict(l=0,r=0,t=10,b=0))
 
     st.plotly_chart(fig_sim, use_container_width=True)
+    #just to check
